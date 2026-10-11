@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6a9e93dbc9baefabd6e2d823"
+  },
+  "name": "Priya",
+  "age": 20,
+  "course": "Bsc.Agriculture",
+  "marks": 90,
+  "phone": "9865754569"
+},
+{
+  "_id": {
+    "$oid": "6a9e93dbc9baefabd6e2d824"
+  },
+  "name": "Arun",
+  "age": 19,
+  "course": "BCA",
+  "marks": 78
+},
+{
+  "_id": {
+    "$oid": "6a9e945abc47a8e4742b930e"
+  },
+  "name": "Rahul",
+  "age": 22,
+  "course": "MCA",
+  "marks": 85
+}]
